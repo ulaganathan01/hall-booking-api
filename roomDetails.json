@@ -1,0 +1,32 @@
+[
+    {
+        "room_id": 1,
+        "seats_available": 30,
+        "amenities": "Enough space to keep more than 50 peoples with fully air conditioner",
+        "price_per_hour": 200
+    },
+    {
+        "room_id": 2,
+        "seats_available": 50,
+        "amenities": "Enough space to keep more than 60 peoples with fully air conditioner",
+        "price_per_hour": 400
+    },
+    {
+        "room_id": 3,
+        "seats_available": 75,
+        "amenities": "Enough space to keep more than 80 peoples with fully air conditioner",
+        "price_per_hour": 500
+    },
+    {
+        "room_id": 4,
+        "seats_available": 100,
+        "amenities": "Enough space to keep more than 110 peoples with fully air conditioner",
+        "price_per_hour": 800
+    },
+    {
+        "room_id": 5,
+        "seats_available": 150,
+        "amenities": "Enough space to keep more than 150 peoples with fully air conditioner",
+        "price_per_hour": 1000
+    }
+]
