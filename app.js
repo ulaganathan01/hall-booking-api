@@ -1,4 +1,5 @@
 const express = require("express");
+require("dotenv").config();
 const hallBookingRouter = require("./routers/hallBookingRouter");
 
 const app = express();
@@ -33,6 +34,6 @@ app.get("/", (req, res) => {
         `)
 })
 
-app.listen(8080, () => {
+app.listen(process.env.PORT, () => {
     console.log("Server is connected successfully!");
 })
