@@ -2,7 +2,7 @@
 Implemented a hall booking API where you can extend available rooms, you can book a room, you can retrive a data like already booked rooms with customer details and customers with number of times rooms booked before and also you can get the customer data with the room booked
 
 When you run on your local machine: <domain-name> will be http://localhost:8080
-Deployed domain name of render server: 
+Deployed domain name of render server: https://hall-booking-api-mwuc.onrender.com
 
 # To-create-a-room
  POST API - <domain-name>/hall-booking/create-one
